@@ -35,3 +35,5 @@ Seven working papers on SSRN, each paired with a public replication repository.
 Projects that fail their gates get a written post-mortem rather than a quiet deletion — **11 published so far**, alongside **31 public repositories that carry an explicit FROZEN / RETRACTED / TERMINAL marker** in place of a result. Where a later audit finds a claimed contribution does not hold, the work is withdrawn rather than reframed.
 
 <sub>Sources: CRSP, Compustat, SEC EDGAR, CFTC Commitments of Traders, OptionMetrics, and central-bank bank-lending surveys (Fed SLOOS, ECB BLS, BoE CCS). Repositories hold code and derived outputs, not vendor data.</sub>
+
+<sub>_Last updated: August 2026_</sub>
